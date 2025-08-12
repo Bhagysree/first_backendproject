@@ -1,0 +1,23 @@
+{
+  "name": "first",
+  "version": "2.0.0",
+  "description": "its my 1st backend project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Bhagysree/first_backendproject.git"
+  },
+  "keywords": [
+    "backend_project"
+  ],
+  "author": "Bhagyasree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhagysree/first_backendproject/issues"
+  },
+  "homepage": "https://github.com/Bhagysree/first_backendproject#readme"
+}
